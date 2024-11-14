@@ -2,7 +2,7 @@
 
 # EXPERIMENT NO: 3
 
-# DATE: 28.08.24
+# DATE: 
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
